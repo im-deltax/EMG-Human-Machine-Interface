@@ -1,0 +1,3 @@
+(fp_lib_table
+ (lib (name "EMG8_FP")(type "KiCad")(uri "${KIPRJMOD}/EMG8_FP.pretty")(options "")(descr "Self-contained standard and Seeed footprints"))
+)
